@@ -1,6 +1,6 @@
 {
 	"name": "Svlider",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "An ultra simple ultralight Svelte slider component",
     "keywords": [
       "components",

@@ -1,3 +1,3 @@
 // Reexport your entry components here
 
-export {default as Svlider} from "./Svlider.svelte"
+export {default as Svlider} from "./svlider.svelte"

@@ -46,5 +46,9 @@
   @import './svlider.css';
 </style>
 
-<figure class="svlider" bind:this={svliderEl}></figure>
+<figure class="svlider" bind:this={svliderEl}>
+
+  <slot></slot>
+
+</figure>
 
